@@ -1,10 +1,10 @@
 
 //1
 
-let password = 'password'8765;
-let userInput = prompt('Введите пароль');
+let password = 8765;
+let userInput = 8765;
 
-if (8765 === 8765) {
+if (password === userInput) {
     alert = (`Пароль введён верно`);
 
 } else {
